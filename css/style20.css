@@ -1,0 +1,22 @@
+.form-boot{
+    width:650px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(243, 143, 106);
+    box-shadow: 20px 10px 10px rgb(245, 184, 156);
+    margin-top: 200px;
+}
+.button-main{
+    margin: auto;
+    padding: 15px;
+    width:400px;
+    border-radius: 20px;
+    width: 100px;
+}
+.title-main{
+    margin: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(97, 4, 4);
+}
